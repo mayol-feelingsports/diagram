@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="fcZhdtvS9p5PEWPYI8Sy">
-    <mxGraphModel dx="4054" dy="2605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5083" dy="3220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KmAEbtHQRBGaexXC9Sj9-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=6;" vertex="1" parent="1">
+          <mxGeometry x="-1180" y="490" width="1670" height="1780" as="geometry" />
+        </mxCell>
         <mxCell id="7268VmPEQmdFCBt6fVRC-45" value="" style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.017;exitPerimeter=0;lucidId=GWr79bhpcn.O;" parent="1" source="7268VmPEQmdFCBt6fVRC-58" target="7268VmPEQmdFCBt6fVRC-217" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <Array as="points" />
@@ -569,17 +572,14 @@
             <mxPoint x="-524.79" y="-479" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gzr5Rtqw3fELn65NTnm0-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="-1030" y="-540" width="20" height="1001" as="geometry" />
+        <mxCell id="Gzr5Rtqw3fELn65NTnm0-4" value="&lt;div&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;i&gt;Partie développeurs/assignés aux tâches&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=3.8;strokeColor=#unset;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=none;strokeWidth=NaN;lucidId=Qgs722q_PT3A;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-1170" y="495" width="440" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Gzr5Rtqw3fELn65NTnm0-2" value="&lt;div&gt;Partie commerciale/créateur de tâches.&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=3.8;strokeColor=#unset;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=none;strokeWidth=NaN;lucidId=Qgs722q_PT3A;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-1270" y="-114.5" width="230" height="150" as="geometry" />
+        <mxCell id="KmAEbtHQRBGaexXC9Sj9-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=6;" vertex="1" parent="1">
+          <mxGeometry x="-1000" y="-600" width="1490" height="1080" as="geometry" />
         </mxCell>
-        <mxCell id="Gzr5Rtqw3fELn65NTnm0-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="-1220" y="500" width="20" height="1720" as="geometry" />
-        </mxCell>
-        <mxCell id="Gzr5Rtqw3fELn65NTnm0-4" value="&lt;div&gt;Partie développeur/assigné aux tâches&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=3.8;strokeColor=#unset;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=none;strokeWidth=NaN;lucidId=Qgs722q_PT3A;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-1460" y="1285" width="230" height="150" as="geometry" />
+        <mxCell id="KmAEbtHQRBGaexXC9Sj9-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;i&gt;Partie commerciale/créateur de tâches.&lt;/i&gt;&lt;/font&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=3.8;strokeColor=#unset;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=none;strokeWidth=NaN;lucidId=Qgs722q_PT3A;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-990" y="-600" width="440" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
