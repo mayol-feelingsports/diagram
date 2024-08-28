@@ -89,7 +89,7 @@
         <mxCell id="7268VmPEQmdFCBt6fVRC-58" value="Type de tâche ?" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=3.8;strokeColor=#666666;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#f5f5f5;strokeWidth=NaN;lucidId=j4r7KApGNP3D;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-600" y="-315" width="143" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="7268VmPEQmdFCBt6fVRC-59" value="Quelle importance ?" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=3.8;strokeColor=#666666;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#f5f5f5;strokeWidth=NaN;lucidId=y4r7EGyVs_DY;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="7268VmPEQmdFCBt6fVRC-59" value="Quelle priorite ?" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=3.8;strokeColor=#666666;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#f5f5f5;strokeWidth=NaN;lucidId=y4r7EGyVs_DY;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-600" y="180" width="160" height="45" as="geometry" />
         </mxCell>
         <mxCell id="7268VmPEQmdFCBt6fVRC-60" value="" style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=-0.009;entryPerimeter=0;lucidId=i6r7.LIMNPZT;exitDx=0;exitDy=0;" parent="1" source="7268VmPEQmdFCBt6fVRC-218" target="7268VmPEQmdFCBt6fVRC-53" edge="1">
